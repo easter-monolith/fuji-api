@@ -1,6 +1,10 @@
 
 
 {
+  "assets": [
+    { "ticker": "fUSD", "quantity": 21000 },
+    { "ticker": "fBMN", "quantity": 2 }
+  ],
   "collaterals": [
     {
       "icon": "/images/asset-2.svg",

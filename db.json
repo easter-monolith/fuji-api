@@ -86,5 +86,5 @@
       "value": 309415.05
     }
   ],
-  "synthetics": ["fUSD", "fBMN"],
+  "synthetics": ["fUSD", "fBMN"]
 }

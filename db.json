@@ -5,20 +5,7 @@
     { "ticker": "fUSD", "quantity": 21000 },
     { "ticker": "fBMN", "quantity": 2 }
   ],
-  "collaterals": [
-    {
-      "icon": "/images/asset-2.svg",
-      "name": "Liquid BTC",
-      "ticker": "LBTC",
-      "value": 40000
-    },
-    {
-      "icon": "/images/asset-1.svg",
-      "name": "Tether USD",
-      "ticker": "USDt",
-      "value": 1
-    }
-  ],
+  "collaterals": ["LBTC", "USDt"],
   "contracts": [
     {
       "collateral": {
@@ -73,7 +60,19 @@
       "txid": "30c044bbf89dab097ccf7cab1c297a95727f4f39a4c3e37d9619708e9d902f27"
     }
   ],
-  "synthetics": [
+  "tokens": [
+    {
+      "icon": "/images/asset-2.svg",
+      "name": "Liquid BTC",
+      "ticker": "LBTC",
+      "value": 40000
+    },
+    {
+      "icon": "/images/asset-1.svg",
+      "name": "Tether USD",
+      "ticker": "USDt",
+      "value": 1
+    },
     {
       "icon": "/images/asset-1.svg",
       "name": "FUJI USD",
@@ -86,5 +85,6 @@
       "ticker": "fBMN",
       "value": 309415.05
     }
-  ]
+  ],
+  "synthetics": ["fUSD", "fBMN"],
 }

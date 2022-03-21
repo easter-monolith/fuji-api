@@ -62,28 +62,28 @@
   "tokens": [
     {
       "icon": "/images/asset-2.svg",
-      "isCollateral": true,
+      "isSynthetic": false,
       "name": "Liquid BTC",
       "ticker": "LBTC",
       "value": 40000
     },
     {
       "icon": "/images/asset-1.svg",
-      "isCollateral": true,
+      "isSynthetic": false,
       "name": "Tether USD",
       "ticker": "USDt",
       "value": 1
     },
     {
       "icon": "/images/asset-1.svg",
-      "isCollateral": false,
+      "isSynthetic": true,
       "name": "FUJI USD",
       "ticker": "fUSD",
       "value": 1
     },
     {
       "icon": "/images/asset-2.svg",
-      "isCollateral": false,
+      "isSynthetic": true,
       "name": "FUJI BMN",
       "ticker": "fBMN",
       "value": 309415.05

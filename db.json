@@ -1,10 +1,6 @@
 
 
 {
-  "assets": [
-    { "ticker": "fUSD", "quantity": 21000 },
-    { "ticker": "fBMN", "quantity": 2 }
-  ],
   "contracts": [
     {
       "collateral": {

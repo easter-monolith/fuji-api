@@ -64,22 +64,25 @@
       "icon": "/images/asset-2.svg",
       "isSynthetic": false,
       "name": "Liquid BTC",
+      "precision" : 8,
+      "ratio": 200,
       "ticker": "LBTC",
-      "value": 40000,
-      "ratio": 200
+      "value": 40000
     },
     {
       "icon": "/images/asset-1.svg",
       "isSynthetic": false,
       "name": "Tether USD",
+      "precision" : 8,
+      "ratio": 150,
       "ticker": "USDt",
-      "value": 1,
-      "ratio": 150
+      "value": 1
     },
     {
       "icon": "/images/asset-1.svg",
       "isSynthetic": true,
       "name": "FUJI USD",
+      "precision" : 8,
       "ticker": "fUSD",
       "value": 1
     },
@@ -87,6 +90,7 @@
       "icon": "/images/asset-2.svg",
       "isSynthetic": true,
       "name": "FUJI BMN",
+      "precision" : 8,
       "ticker": "fBMN",
       "value": 309415.05
     }

@@ -17,7 +17,7 @@
     {
       "collateral": {
         "ticker": "LBTC",
-        "quantity": 1
+        "quantity": 1.1
       },
       "createdAt": 1647874996970,
       "synthetic": {

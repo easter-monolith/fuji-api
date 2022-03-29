@@ -44,21 +44,18 @@
       "collateral": "LBTC",
       "quantity": 42000,
       "synthetic": "fUSD",
-      "ratio": 150,
       "txid": "5530bdbb7c61227eac28429debef062c845f829522280612c5dd9f5e1a2082ee"
     },
     {
       "collateral": "LBTC",
       "quantity": 4,
       "synthetic": "fBMN",
-      "ratio": 200,
       "txid": "30c044bbf89dab097ccf7cab1c297a95727f4f39a4c3e37d9619708e9d902f27"
     },
     {
       "collateral": "USDt",
       "quantity": 4,
       "synthetic": "fBMN",
-      "ratio": 200,
       "txid": "30c044bbf89dab097ccf7cab1c297a95727f4f39a4c3e37d9619708e9d902f27"
     }
   ],

@@ -79,17 +79,17 @@
     {
       "collateral": "LBTC",
       "synthetic": "fUSD",
-      "txid": "5530bdbb7c61227eac28429debef062c845f829522280612c5dd9f5e1a2082ee"
+      "id": "5530bdbb7c61227eac28429debef062c845f829522280612c5dd9f5e1a2082ee"
     },
     {
       "collateral": "LBTC",
       "synthetic": "fBMN",
-      "txid": "30c044bbf89dab097ccf7cab1c297a95727f4f39a4c3e37d9619708e9d902f27"
+      "id": "30c044bbf89dab097ccf7cab1c297a95727f4f39a4c3e37d9619708e9d902f27"
     },
     {
       "collateral": "USDt",
       "synthetic": "fBMN",
-      "txid": "30c044bbf89dab097ccf7cab1c297a95727f4f39a4c3e37d9619708e9d902f27"
+      "id": "30c044bbf89dab097ccf7cab1c297a95727f4f39a4c3e37d9619708e9d902f27"
     }
   ],
   "tokens": [

@@ -79,17 +79,20 @@
     {
       "collateral": "LBTC",
       "synthetic": "fUSD",
-      "id": "5530bdbb7c61227eac28429debef062c845f829522280612c5dd9f5e1a2082ee"
+      "id": "5530bdbb7c61227eac28429debef062c845f829522280612c5dd9f5e1a2082ee",
+      "payout": 0.25
     },
     {
       "collateral": "LBTC",
       "synthetic": "fBMN",
-      "id": "30c044bbf89dab097ccf7cab1c297a95727f4f39a4c3e37d9619708e9d902f27"
+      "id": "30c044bbf89dab097ccf7cab1c297a95727f4f39a4c3e37d9619708e9d902f27",
+      "payout": 0.25
     },
     {
       "collateral": "USDt",
       "synthetic": "fBMN",
-      "id": "30c044bbf89dab097ccf7cab1c297a95727f4f39a4c3e37d9619708e9d902f27"
+      "id": "30c044bbf89dab097ccf7cab1c297a95727f4f39a4c3e37d9619708e9d902f27",
+      "payout": 0.25
     }
   ],
   "tokens": [
